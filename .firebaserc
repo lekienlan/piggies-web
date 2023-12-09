@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "piggies-web-staging",
+    "production": "piggies-web-production"
+  }
+}
